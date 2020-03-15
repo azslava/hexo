@@ -1,0 +1,48 @@
+
+/* Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px){
+
+    .header__title__logo  a{
+        color: #fff;
+        border: #fff solid 2px;
+        border-radius: 2px;
+        padding: .7em 1rem;
+        font-size: .8rem;
+    }
+    .header__title__subtitle{
+
+    }
+    .header__nav{
+
+    }
+    .header__nav__items{
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: flex-end;
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+    .header__nav__item{
+        padding-left: 1.5rem;
+    }
+    .header__nav__item a{
+        color: #fff;
+        border: #fff solid 2px;
+        border-radius: 2px;
+        padding: .7em 1rem;
+        font-size: .8rem;
+    }
+    .all__wrap{
+        max-width: 900px;
+        margin: auto;
+    } 
+    .main{
+        max-width: 900px;
+        margin: auto;
+        flex-flow:row nowrap
+    }  
+
+
+}

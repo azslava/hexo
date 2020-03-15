@@ -1,0 +1,52 @@
+/*
+#f9f9fa   #E9F3FC     #fafafa
+*/
+
+body{
+    background:#f9f9fa;
+    margin: 0;
+    padding: 0%;
+    font-size: 100%;
+    font-weight: 400;
+    line-height: 1.5;    
+    font-family: 'Raleway', sans-serif;
+    color: #777777;
+    font-weight: 400;
+}
+.header{    
+    height: 100vh;
+    background-image: url(../img/bg1.jpg);
+    background-size: cover;
+    background-position-x: center;
+}
+.header__topline{
+
+}
+.header__title {
+
+}
+.header__title__logo  a{
+
+}
+.header__title__subtitle{
+
+}
+.header__nav{
+
+}
+.header__nav__items{
+}
+.header__nav__item{
+}
+.header__nav__item a{
+}
+.header__search__form{
+    display: none;
+}
+.main{
+    margin: 1rem;
+    display: flex;
+    flex-flow: column;
+}
+
+
